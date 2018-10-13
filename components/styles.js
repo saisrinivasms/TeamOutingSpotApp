@@ -11,7 +11,7 @@ const styles = {
     },
     mapHeader: {
         backgroundColor: "rgba(255, 255, 255, .7)",
-        paddingTop: 20
+        paddingTop: 30
     }
 };
 
